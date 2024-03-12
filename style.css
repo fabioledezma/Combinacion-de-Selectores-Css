@@ -1,0 +1,25 @@
+
+
+h1, h2 {
+  color: purple;
+}
+
+.box > .done {
+  color: firebrick;
+}
+
+.box li {
+  color: blue;
+}
+
+li.done {
+  color: aqua;
+}
+
+ul > p.done {
+  font-size: .5rem;
+}
+
+body >p {
+  color: yellow;
+}
